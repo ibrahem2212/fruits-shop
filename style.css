@@ -221,6 +221,15 @@ footer {
 .footer-items input{
     padding-top: 5px;
 }
+.footer-items button{
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-left: 40px;
+    margin-top: 5px;
+    
+}
 
 .last-footer{
     background: #f8f8f8;

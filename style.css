@@ -158,6 +158,11 @@ button:hover {
     max-width: 100px;
     max-height: 100px;
 }
+.text button{
+    margin-left: 0;
+    text-align: left;
+    margin-top: 5px;
+    }
 .profile{
     text-align: center;
     padding: 50px;
@@ -228,7 +233,9 @@ footer {
     border-radius: 5px;
 }
 .sub-btn{
+    margin-right: 20%;
     text-align: center;
+    margin-top: 5px;
 }
 
 .last-footer{
